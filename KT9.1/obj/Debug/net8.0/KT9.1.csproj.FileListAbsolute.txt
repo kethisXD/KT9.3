@@ -1,0 +1,14 @@
+C:\Users\xxx\projects\csharp\KT9\KT9.1\bin\Debug\net8.0\KT9.1.exe
+C:\Users\xxx\projects\csharp\KT9\KT9.1\bin\Debug\net8.0\KT9.1.deps.json
+C:\Users\xxx\projects\csharp\KT9\KT9.1\bin\Debug\net8.0\KT9.1.runtimeconfig.json
+C:\Users\xxx\projects\csharp\KT9\KT9.1\bin\Debug\net8.0\KT9.1.dll
+C:\Users\xxx\projects\csharp\KT9\KT9.1\bin\Debug\net8.0\KT9.1.pdb
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.AssemblyInfoInputs.cache
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.AssemblyInfo.cs
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.csproj.CoreCompileInputs.cache
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.dll
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\refint\KT9.1.dll
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.pdb
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\KT9.1.genruntimeconfig.cache
+C:\Users\xxx\projects\csharp\KT9\KT9.1\obj\Debug\net8.0\ref\KT9.1.dll
